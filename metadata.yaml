@@ -1,0 +1,28 @@
+_repo: Sunshine-and-snow_69277
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: https://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: ''
+gutenberg_issued: '2022-11-01'
+identifiers:
+  gutenberg: '69277'
+language: en
+pgterms:marc904: https://archive.org/details/sunshinesnow00bind
+pgterms:marc905: 20221030135227bindloss
+pgterms:marc906: '1900'
+pgterms:marc907: CA
+production_note: Al Haines
+publication_note: 'Canada: Musson Book Company,1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sunshine and snow
+url: http://www.gutenberg.org/ebooks/69277
